@@ -1,0 +1,1 @@
+La idea de este webpack inicial es crear el "cascaron" que nos permita a nosotros poder tomar rápidamente esta carpeta, clonarla, y luego comenzar a crear aplicaciones que utilicen todo lo que configuramos en él.
